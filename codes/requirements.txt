@@ -1,0 +1,12 @@
+ipykernel
+langchain_openai
+python-dotenv
+langchain_google_genai
+langchain_community
+pypdf
+langchain
+ddgs
+langchain_experimental
+youtube_transcript_api
+pytube
+chromadb
